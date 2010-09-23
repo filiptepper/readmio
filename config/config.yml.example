@@ -1,2 +1,6 @@
 application:
   port: 3000
+twitter:
+  key: "your-key"
+  secret: "your-secret"
+  callback_url: "http://your.url/twitter/callback"
